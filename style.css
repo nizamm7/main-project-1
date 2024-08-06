@@ -23,6 +23,7 @@ ul{
     gap: 30px;
     margin-right: 50px;
     font-size: 19px;
+    margin-top: 30px;
 }
 .ABOUT{
     color: rgb(89, 239, 239);
@@ -177,7 +178,7 @@ background-image :   url(web\ model\ 11-02.jpg) ;
     background-image: url(web\ model\ 11-05.jpg);
 }
 .photo img{
-    height: 6vh;
+   width: 60px;
 }
 .last-content{
     display: flex;
